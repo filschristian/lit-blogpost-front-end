@@ -18,6 +18,11 @@ Here are the environment prerequisites for the web app
 - Run `npm install` to install node packages
 - Run `npm run start` to start the web app
 
+### Testing
+
+- navigate to `https://lit-blog-post.herokuapp.com/`
+- Login with email: `olivier@email.com` and password: `123456`
+
 ## Running the tests
 
 - Run `npm run test`
